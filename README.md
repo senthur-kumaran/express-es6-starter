@@ -1,6 +1,6 @@
-# Express ES6 Starter
+# Express Sequelize MySQL
 
-Express MVC ES6 Starter with Jest and ESLint.
+Express MVC Sequelize MySQL with Jest and ESLint.
 
 ## Technology
 
